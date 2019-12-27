@@ -2,7 +2,7 @@
 
 ## Context
 
--BeCode junior web development programme requires participants to present a topic of choice (i.e. do 'a Watch').
+BeCode junior web development programme requires participants to present a topic of choice (i.e. do 'a Watch').
 
 ## List of watches
 1. Statcounter, employing user statistics as a web developer to focus on the right things and use appropriate technologies
